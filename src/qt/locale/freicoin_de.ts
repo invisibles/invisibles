@@ -6,32 +6,32 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Freicoin</source>
-        <translation>Über Freicoin</translation>
+        <source>About Invisibles</source>
+        <translation>Über Invisibles</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Freicoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Freicoin&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;Invisibles&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Invisibles&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2012 Bitcoin developers
-Copyright © 2011-2012 Freicoin developers
+Copyright © 2011-2012 Invisibles developers
 
 The conceptual marriage of Gesell&apos;s Freigeld with Bitcoin is due to one individual without whom this project would never have started: Jorge Timón. The initial release would not have been possible without further contributions from developers Mark Friedenbach, Matthew Redmond, Aaron Blumenshine, and an anonymous contributor.
 
-The initial development of Freicoin was made possible through generous financial support from Martin Auer, Matthew Redmond, Carsten Langer, Manolis Afentakis, Dave Berzack, Marco Bluethgen, Jamie Derkenne, Josef Dietl, Claas Kähler, Alex Glaser, Trent Larson, James O&apos;Keefe, David Rodrigues, Lucas Vázquez Besteiro, Reinoud Zandijk, and anonymous supporters.
+The initial development of Invisibles was made possible through generous financial support from Martin Auer, Matthew Redmond, Carsten Langer, Manolis Afentakis, Dave Berzack, Marco Bluethgen, Jamie Derkenne, Josef Dietl, Claas Kähler, Alex Glaser, Trent Larson, James O&apos;Keefe, David Rodrigues, Lucas Vázquez Besteiro, Reinoud Zandijk, and anonymous supporters.
 
-Last but certainly not least, we all owe a debt to the legacy of Silvio Gesell, as it is upon his theory of free money that Freicoin is built.</source>
+Last but certainly not least, we all owe a debt to the legacy of Silvio Gesell, as it is upon his theory of free money that Invisibles is built.</source>
         <translation>Copyright © 2009-2012 Die Bitcoinentwickler
-Copyright © 2011-2012 Die Freicoinentwickler
+Copyright © 2011-2012 Die Invisiblesentwickler
 
 Die konzeptuelle Verbindung von Gesll&apos;s Freigeld mit Bitcoin ist einer Person zu verdanken, ohne die dieses Projekt nie gestartet wäre: Jorge Timón. Die erste Version wäre ohne weitere Beiträge von den Entwicklern Mark Friedenbach, Matthew Redmond, Aaron Blumenshine und einem anonymen Beitrag nicht möglich gewesen.
 
-Die ursprüngliche Entwicklung von Freicoin wurde durch die grosszügige finanzielle Unterstützung von Martin Auer, Matthew Redmond, Carsten Langer, Manolis Afentakis, Dave Berzack, Marco Bluethgen, Jamie Derkenne, Josef Dietl, Claas Kähler, Alex Glaser, Trent Larson, James O&apos;Keefe, David Rodrigues, Lucas Vázquez Besteiro, Reinoud Zandijk und anonymen Unterstützern ermöglicht. 
+Die ursprüngliche Entwicklung von Invisibles wurde durch die grosszügige finanzielle Unterstützung von Martin Auer, Matthew Redmond, Carsten Langer, Manolis Afentakis, Dave Berzack, Marco Bluethgen, Jamie Derkenne, Josef Dietl, Claas Kähler, Alex Glaser, Trent Larson, James O&apos;Keefe, David Rodrigues, Lucas Vázquez Besteiro, Reinoud Zandijk und anonymen Unterstützern ermöglicht. 
 
-Last but not least, verdanken wir es dem Vermächtnis von Silvio Gsell, dessen Theorie des freien Geldes die Grundlage für Freicoin war.</translation>
+Last but not least, verdanken wir es dem Vermächtnis von Silvio Gsell, dessen Theorie des freien Geldes die Grundlage für Invisibles war.</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -58,8 +58,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+6"/>
-        <source>These are your Freicoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dies sind Ihre Freicoin-Adressen zum Empfangen von Zahlungen. Es steht Ihnen frei, jedem Absender eine Andere mitzuteilen, um einen besseren Überblick über eingehende Zahlungen zu erhalten.</translation>
+        <source>These are your Invisibles addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dies sind Ihre Invisibles-Adressen zum Empfangen von Zahlungen. Es steht Ihnen frei, jedem Absender eine Andere mitzuteilen, um einen besseren Überblick über eingehende Zahlungen zu erhalten.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -78,8 +78,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+25"/>
-        <source>Sign a message to prove you own a Freicoin address</source>
-        <translation>Eine Nachricht signieren, um den Besitz einer Freicoin-Adresse zu beweisen</translation>
+        <source>Sign a message to prove you own a Invisibles address</source>
+        <translation>Eine Nachricht signieren, um den Besitz einer Invisibles-Adresse zu beweisen</translation>
     </message>
     <message>
         <location line="-36"/>
@@ -103,8 +103,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+11"/>
-        <source>Verify a message to ensure it was signed with a specified Freicoin address</source>
-        <translation>Die Nachricht signieren, um sicherzustellen, dass diese mit der angegebenen Freicoin-Adresse signiert wurde.</translation>
+        <source>Verify a message to ensure it was signed with a specified Invisibles address</source>
+        <translation>Die Nachricht signieren, um sicherzustellen, dass diese mit der angegebenen Invisibles-Adresse signiert wurde.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -244,13 +244,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+0"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FREICOINS&lt;/b&gt;!</source>
-        <translation>Warnung: Wenn Sie Ihre Brieftasche verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE FREICOINS VERLIEREN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR INVISIBLES&lt;/b&gt;!</source>
+        <translation>Warnung: Wenn Sie Ihre Brieftasche verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE INVISIBLES VERLIEREN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Freicoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your freicoins from being stolen by malware infecting your computer.</source>
-        <translation>Freicoin wird jetzt beendet, um den Verschlüsselungsprozess abzuschliessen. Bitte beachten Sie, dass die Verschlüsselung Ihrer Brieftasche nicht vollständig vor Diebstahl Ihrer Freicoins durch Schadsoftware schützt, die Ihren Computer befällt.</translation>
+        <source>Invisibles will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your invisibless from being stolen by malware infecting your computer.</source>
+        <translation>Invisibles wird jetzt beendet, um den Verschlüsselungsprozess abzuschliessen. Bitte beachten Sie, dass die Verschlüsselung Ihrer Brieftasche nicht vollständig vor Diebstahl Ihrer Invisibless durch Schadsoftware schützt, die Ihren Computer befällt.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -373,8 +373,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Freicoin address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Freicoin Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Invisibles address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Invisibles Adresse.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -388,16 +388,16 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
 </context>
 <context>
-    <name>FreicoinGUI</name>
+    <name>InvisiblesGUI</name>
     <message>
-        <location filename="../freicoin.cpp" line="+109"/>
-        <source>A fatal error occured. Freicoin can no longer continue safely and will quit.</source>
-        <translation>Ein schwerer Fehler liegt vor. Freicoin kann nicht länger sicher weiterlaufen und wird beendet. </translation>
+        <location filename="../invisibles.cpp" line="+109"/>
+        <source>A fatal error occured. Invisibles can no longer continue safely and will quit.</source>
+        <translation>Ein schwerer Fehler liegt vor. Invisibles kann nicht länger sicher weiterlaufen und wird beendet. </translation>
     </message>
     <message>
-        <location filename="../freicoingui.cpp" line="+74"/>
-        <source>Freicoin</source>
-        <translation>Freicoin</translation>
+        <location filename="../invisiblesgui.cpp" line="+74"/>
+        <source>Invisibles</source>
+        <translation>Invisibles</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -416,8 +416,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+6"/>
-        <source>Send coins to a Freicoin address</source>
-        <translation>Freicoins an eine Freicoin Adresse überweisen</translation>
+        <source>Send coins to a Invisibles address</source>
+        <translation>Invisibless an eine Invisibles Adresse überweisen</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -466,13 +466,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;About Freicoin</source>
-        <translation>Über &amp;Freicoin</translation>
+        <source>&amp;About Invisibles</source>
+        <translation>Über &amp;Invisibles</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Freicoin</source>
-        <translation>Information über Freicoin anzeigen</translation>
+        <source>Show information about Invisibles</source>
+        <translation>Information über Invisibles anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -491,8 +491,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+1"/>
-        <source>Modify configuration options for Freicoin</source>
-        <translation>Einstellungen für Freicoin verändern</translation>
+        <source>Modify configuration options for Invisibles</source>
+        <translation>Einstellungen für Invisibles verändern</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -593,15 +593,15 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Freicoin client</source>
-        <translation>Freicoin Client</translation>
+        <source>Invisibles client</source>
+        <translation>Invisibles Client</translation>
     </message>
     <message numerus="yes">
         <location line="+69"/>
-        <source>%n active connection(s) to Freicoin network</source>
+        <source>%n active connection(s) to Invisibles network</source>
         <translation>
-            <numerusform>%n aktive Verbindung zum Freicoin-Netzwerk</numerusform>
-            <numerusform>%n aktive Verbindungen zum Freicoin-Netzwerk</numerusform>
+            <numerusform>%n aktive Verbindung zum Invisibles-Netzwerk</numerusform>
+            <numerusform>%n aktive Verbindungen zum Invisibles-Netzwerk</numerusform>
         </translation>
     </message>
     <message>
@@ -716,8 +716,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Freicoin address or malformed URI parameters.</source>
-        <translation>URI kann nicht geparst werden! Dies kann durch eine ungültige Freicoin-Adresse oder ungültige URI Parameter verursacht werden.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Invisibles address or malformed URI parameters.</source>
+        <translation>URI kann nicht geparst werden! Dies kann durch eine ungültige Invisibles-Adresse oder ungültige URI Parameter verursacht werden.</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -760,8 +760,8 @@ Adresse: %4
     <message>
         <location line="+0"/>
         <location line="+12"/>
-        <source>Freicoin-Qt</source>
-        <translation>Freicoin-Qt</translation>
+        <source>Invisibles-Qt</source>
+        <translation>Invisibles-Qt</translation>
     </message>
     <message>
         <location line="-10"/>
@@ -833,13 +833,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-43"/>
-        <source>Automatically start Freicoin after logging in to the system.</source>
-        <translation>Freicoin nach der Anmeldung am System automatisch ausführen.</translation>
+        <source>Automatically start Invisibles after logging in to the system.</source>
+        <translation>Invisibles nach der Anmeldung am System automatisch ausführen.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Freicoin on system login</source>
-        <translation>&amp;Starte Freicoin nach Systemanmeldung</translation>
+        <source>&amp;Start Invisibles on system login</source>
+        <translation>&amp;Starte Invisibles nach Systemanmeldung</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -848,13 +848,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Automatically open the Freicoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Freicoin Clientport auf dem Router öffnen. Dies funktioniert nur, wenn ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
+        <source>Automatically open the Invisibles client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den Invisibles Clientport auf dem Router öffnen. Dies funktioniert nur, wenn ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Connect to the Freicoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Über einen Socks Proxy mit dem Freicoin-Netzwerk verbinden (z.B. beim Verbinden über Tor).</translation>
+        <source>Connect to the Invisibles network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Über einen Socks Proxy mit dem Invisibles-Netzwerk verbinden (z.B. beim Verbinden über Tor).</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -923,13 +923,13 @@ Adresse: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Freicoin.</source>
-        <translation>Legt die Sprache der Benutzeroberfläche fest. Diese Einstellung wird erst nach einem Neustart von Freicoin aktiv.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Invisibles.</source>
+        <translation>Legt die Sprache der Benutzeroberfläche fest. Diese Einstellung wird erst nach einem Neustart von Invisibles aktiv.</translation>
     </message>
     <message>
         <location line="+33"/>
-        <source>Whether to show Freicoin addresses in the transaction list or not.</source>
-        <translation>Legt fest, ob Freicoin-Adressen in der Transaktionsliste angezeigt werden.</translation>
+        <source>Whether to show Invisibles addresses in the transaction list or not.</source>
+        <translation>Legt fest, ob Invisibles-Adressen in der Transaktionsliste angezeigt werden.</translation>
     </message>
     <message>
         <location line="-22"/>
@@ -949,7 +949,7 @@ Adresse: %4
     <message>
         <location line="+76"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Freicoins angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Invisibless angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+83"/>
@@ -980,8 +980,8 @@ Adresse: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Freicoin.</source>
-        <translation>Diese Einstellung wird erst nach einem Neustrat von Freicoin aktiv.</translation>
+        <source>This setting will take effect after restarting Invisibles.</source>
+        <translation>Diese Einstellung wird erst nach einem Neustrat von Invisibles aktiv.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1019,8 +1019,8 @@ Adresse: %4
     <message>
         <location line="+7"/>
         <location line="+183"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Freicoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigten Informationen sind möglicherweise nicht mehr aktuell. Ihre Brieftasche wird automatisch synchronisiert, nachdem eine Verbindung zum Freicoin-Netzwerk hergestellt wurde. Dieser Prozess ist jedoch derzeit noch nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Invisibles network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigten Informationen sind möglicherweise nicht mehr aktuell. Ihre Brieftasche wird automatisch synchronisiert, nachdem eine Verbindung zum Invisibles-Netzwerk hergestellt wurde. Dieser Prozess ist jedoch derzeit noch nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-66"/>
@@ -1150,13 +1150,13 @@ Adresse: %4
     </message>
     <message>
         <location line="-10"/>
-        <source>Freicoin - Debug window</source>
-        <translation>Freicoin - Debugfenster</translation>
+        <source>Invisibles - Debug window</source>
+        <translation>Invisibles - Debugfenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Freicoin Core</source>
-        <translation>Freicoin-Kern</translation>
+        <source>Invisibles Core</source>
+        <translation>Invisibles-Kern</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -1205,8 +1205,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+49"/>
-        <source>Open the Freicoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öffnet die Freicoin-Debugprotokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
+        <source>Open the Invisibles debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öffnet die Invisibles-Debugprotokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1220,8 +1220,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Freicoin-Qt help message to get a list with possible Freicoin command-line options.</source>
-        <translation>Zeige die Freicoin-Qt-Hilfsnachricht, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten.</translation>
+        <source>Show the Invisibles-Qt help message to get a list with possible Invisibles command-line options.</source>
+        <translation>Zeige die Invisibles-Qt-Hilfsnachricht, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1250,8 +1250,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Freicoin RPC console.</source>
-        <translation>Willkommen in der Freicoin-RPC-Konsole.</translation>
+        <source>Welcome to the Invisibles RPC console.</source>
+        <translation>Willkommen in der Invisibles-RPC-Konsole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1276,7 +1276,7 @@ Adresse: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Freicoins überweisen</translation>
+        <translation>Invisibless überweisen</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1371,7 +1371,7 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Freicoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Freicoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Invisibless aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Invisibless dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
 </context>
 <context>
@@ -1439,8 +1439,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Freicoin-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Invisibles address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Invisibles-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1505,8 +1505,8 @@ Adresse: %4
     </message>
     <message>
         <location line="+14"/>
-        <source>Sign the message to prove you own this Freicoin address</source>
-        <translation>Die Nachricht signieren, um den Besitz dieser Freicoin-Adresse zu beweisen</translation>
+        <source>Sign the message to prove you own this Invisibles address</source>
+        <translation>Die Nachricht signieren, um den Besitz dieser Invisibles-Adresse zu beweisen</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1516,8 +1516,8 @@ Adresse: %4
     </message>
     <message>
         <location line="-20"/>
-        <source>Verify the message to ensure it was signed with the specified Freicoin address</source>
-        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen Freicoin-Adresse signiert wurde</translation>
+        <source>Verify the message to ensure it was signed with the specified Invisibles address</source>
+        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen Invisibles-Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="-129"/>
@@ -1553,13 +1553,13 @@ Adresse: %4
     <message>
         <location line="-1"/>
         <location line="+3"/>
-        <source>Enter a Freicoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Freicoin-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Invisibles address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Invisibles-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Enter Freicoin signature</source>
-        <translation>Freicoin-Signatur eingeben</translation>
+        <source>Enter Invisibles signature</source>
+        <translation>Invisibles-Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1773,7 +1773,7 @@ Adresse: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generierte Freicoins müssen 120 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block generierten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich generiert.</translation>
+        <translation>Generierte Invisibless müssen 120 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block generierten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich generiert.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2141,13 +2141,13 @@ Adresse: %4
     </message>
 </context>
 <context>
-    <name>freicoin-core</name>
+    <name>invisibles-core</name>
     <message>
-        <location filename="../freicoinstrings.cpp" line="+9"/>
+        <location filename="../invisiblesstrings.cpp" line="+9"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=freicoinrpc
+rpcuser=invisiblesrpc
 rpcpassword=%s
 (you do not need to remember this password)
 If the file does not exist, create it with owner-readable-only file permissions.
@@ -2155,7 +2155,7 @@ If the file does not exist, create it with owner-readable-only file permissions.
         <translation>%s, Sie müssen den Wert rpcpasswort in der Konfigurationsdatei angeben:
 %s
 Es wird empfohlen das folgende Zufallspasswort zu verwenden:
-rpcuser=freicoinrpc
+rpcuser=invisiblesrpc
 rpcpassword=%s
 (Sie müssen sich dieses Passwort nicht merken!)
 Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Leserechten nur für den Dateibesitzer.
@@ -2178,8 +2178,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s.  Freicoin is probably already running.</source>
-        <translation>Datenverzeichnis %s kann nicht gesperrt werden. Evtl. wurde Freicoin bereits gestartet.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Invisibles is probably already running.</source>
+        <translation>Datenverzeichnis %s kann nicht gesperrt werden. Evtl. wurde Invisibles bereits gestartet.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2194,7 +2194,7 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Freicoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Freicoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Invisibless aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Invisibless dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2223,8 +2223,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. Freicoin is probably already running.</source>
-        <translation>Kann auf diesem Computer nicht an %s binden. Evtl. wurde Freicoin bereits gestartet.</translation>
+        <source>Unable to bind to %s on this computer. Invisibles is probably already running.</source>
+        <translation>Kann auf diesem Computer nicht an %s binden. Evtl. wurde Invisibles bereits gestartet.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2238,8 +2238,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Freicoin will not work properly.</source>
-        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da Freicoin ansonsten nicht ordnungsgemäss funktionieren wird!</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Invisibles will not work properly.</source>
+        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da Invisibles ansonsten nicht ordnungsgemäss funktionieren wird!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2348,7 +2348,7 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     <message>
         <location line="+1"/>
         <source>Don&apos;t generate coins</source>
-        <translation>Keine Freicoins erzeugen</translation>
+        <translation>Keine Invisibless erzeugen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2372,8 +2372,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Freicoin</source>
-        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von Freicoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Invisibles</source>
+        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von Invisibles</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2417,18 +2417,18 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Freicoin version</source>
-        <translation>Freicoin Version</translation>
+        <source>Invisibles version</source>
+        <translation>Invisibles Version</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Freicoin</source>
-        <translation>Freicoin</translation>
+        <source>Invisibles</source>
+        <translation>Invisibles</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Generate coins</source>
-        <translation>Freicoins generieren</translation>
+        <translation>Invisibless generieren</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2582,8 +2582,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or freicoind</source>
-        <translation>Befehl an -server oder freicoind senden</translation>
+        <source>Send command to -server or invisiblesd</source>
+        <translation>Befehl an -server oder invisiblesd senden</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,8 +2647,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify configuration file (default: freicoin.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: freicoin.conf)</translation>
+        <source>Specify configuration file (default: invisibles.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: invisibles.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2662,8 +2662,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: freicoind.pid)</source>
-        <translation>PID-Datei angeben (Standard: freicoind.pid)</translation>
+        <source>Specify pid file (default: invisiblesd.pid)</source>
+        <translation>PID-Datei angeben (Standard: invisiblesd.pid)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2747,8 +2747,8 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Freicoin to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden: Starten Sie Freicoin zur Fertigstellung neu</translation>
+        <source>Wallet needed to be rewritten: restart Invisibles to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden: Starten Sie Invisibles zur Fertigstellung neu</translation>
     </message>
     <message>
         <location line="+1"/>

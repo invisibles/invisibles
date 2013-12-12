@@ -1,8 +1,8 @@
 // Copyright (c) 2012 The Bitcoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef FREICOIN_MRUSET_H
-#define FREICOIN_MRUSET_H
+#ifndef INVISIBLES_MRUSET_H
+#define INVISIBLES_MRUSET_H
 
 #include <set>
 #include <deque>

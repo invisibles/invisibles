@@ -1,5 +1,5 @@
-freicoin-qt usr/bin
-share/pixmaps/freicoin32.xpm usr/share/pixmaps
-share/pixmaps/freicoin80.xpm usr/share/pixmaps
-debian/freicoin-qt.desktop usr/share/applications
-debian/freicoin-qt.protocol usr/share/kde4/services/
+invisibles-qt usr/bin
+share/pixmaps/invisibles32.xpm usr/share/pixmaps
+share/pixmaps/invisibles80.xpm usr/share/pixmaps
+debian/invisibles-qt.desktop usr/share/applications
+debian/invisibles-qt.protocol usr/share/kde4/services/

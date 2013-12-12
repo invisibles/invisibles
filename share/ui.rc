@@ -1,4 +1,4 @@
-freicoin              ICON    "pixmaps/freicoin.ico"
+invisibles              ICON    "pixmaps/invisibles.ico"
 
 #include "wx/msw/wx.rc"
 

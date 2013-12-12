@@ -1,20 +1,20 @@
-#ifndef FREICOINUNITS_H
-#define FREICOINUNITS_H
+#ifndef INVISIBLESUNITS_H
+#define INVISIBLESUNITS_H
 
 #include "bignum.h" // for mpq
 
 #include <QString>
 #include <QAbstractListModel>
 
-/** Freicoin unit definitions. Encapsulates parsing and formatting
+/** Invisibles unit definitions. Encapsulates parsing and formatting
    and serves as list model for dropdown selection boxes.
 */
-class FreicoinUnits: public QAbstractListModel
+class InvisiblesUnits: public QAbstractListModel
 {
 public:
-    explicit FreicoinUnits(QObject *parent);
+    explicit InvisiblesUnits(QObject *parent);
 
-    /** Freicoin units.
+    /** Invisibles units.
       @note Source: https://en.bitcoin.it/wiki/Units . Please add only sensible ones
      */
     enum Unit
@@ -61,8 +61,8 @@ public:
     QVariant data(const QModelIndex &index, int role) const;
     ///@}
 private:
-    QList<FreicoinUnits::Unit> unitlist;
+    QList<InvisiblesUnits::Unit> unitlist;
 };
-typedef FreicoinUnits::Unit FreicoinUnit;
+typedef InvisiblesUnits::Unit InvisiblesUnit;
 
-#endif // FREICOINUNITS_H
+#endif // INVISIBLESUNITS_H

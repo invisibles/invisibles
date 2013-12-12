@@ -1,23 +1,23 @@
-#include "freicoinunits.h"
+#include "invisiblesunits.h"
 
 #include <QStringList>
 
-FreicoinUnits::FreicoinUnits(QObject *parent):
+InvisiblesUnits::InvisiblesUnits(QObject *parent):
         QAbstractListModel(parent),
         unitlist(availableUnits())
 {
 }
 
-QList<FreicoinUnits::Unit> FreicoinUnits::availableUnits()
+QList<InvisiblesUnits::Unit> InvisiblesUnits::availableUnits()
 {
-    QList<FreicoinUnits::Unit> unitlist;
+    QList<InvisiblesUnits::Unit> unitlist;
     unitlist.append(FRC);
     unitlist.append(mFRC);
     unitlist.append(uFRC);
     return unitlist;
 }
 
-bool FreicoinUnits::valid(int unit)
+bool InvisiblesUnits::valid(int unit)
 {
     switch(unit)
     {
@@ -30,7 +30,7 @@ bool FreicoinUnits::valid(int unit)
     }
 }
 
-QString FreicoinUnits::name(int unit)
+QString InvisiblesUnits::name(int unit)
 {
     switch(unit)
     {
@@ -41,18 +41,18 @@ QString FreicoinUnits::name(int unit)
     }
 }
 
-QString FreicoinUnits::description(int unit)
+QString InvisiblesUnits::description(int unit)
 {
     switch(unit)
     {
-    case FRC: return QString("Freicoins");
-    case mFRC: return QString("Milli-Freicoins (1 / 1,000)");
-    case uFRC: return QString("Micro-Freicoins (1 / 1,000,000)");
+    case FRC: return QString("Invisibless");
+    case mFRC: return QString("Milli-Invisibless (1 / 1,000)");
+    case uFRC: return QString("Micro-Invisibless (1 / 1,000,000)");
     default: return QString("???");
     }
 }
 
-mpq FreicoinUnits::factor(int unit)
+mpq InvisiblesUnits::factor(int unit)
 {
     switch(unit)
     {
@@ -63,7 +63,7 @@ mpq FreicoinUnits::factor(int unit)
     }
 }
 
-int FreicoinUnits::amountDigits(int unit)
+int InvisiblesUnits::amountDigits(int unit)
 {
     switch(unit)
     {
@@ -74,7 +74,7 @@ int FreicoinUnits::amountDigits(int unit)
     }
 }
 
-int FreicoinUnits::decimals(int unit)
+int InvisiblesUnits::decimals(int unit)
 {
     switch(unit)
     {
@@ -85,7 +85,7 @@ int FreicoinUnits::decimals(int unit)
     }
 }
 
-QString FreicoinUnits::format(int unit, const mpq& n, bool fPlus)
+QString InvisiblesUnits::format(int unit, const mpq& n, bool fPlus)
 {
     // Note: not using straight sprintf here because we do NOT want
     // localized number formatting.
@@ -99,12 +99,12 @@ QString FreicoinUnits::format(int unit, const mpq& n, bool fPlus)
     return QString::fromStdString(str);
 }
 
-QString FreicoinUnits::formatWithUnit(int unit, const mpq& amount, bool plussign)
+QString InvisiblesUnits::formatWithUnit(int unit, const mpq& amount, bool plussign)
 {
     return format(unit, amount, plussign) + QString(" ") + name(unit);
 }
 
-bool FreicoinUnits::parse(int unit, const QString &value, mpq *val_out)
+bool InvisiblesUnits::parse(int unit, const QString &value, mpq *val_out)
 {
     mpq ret_value;
     if (!ParseMoney(value.toStdString(), ret_value))
@@ -116,13 +116,13 @@ bool FreicoinUnits::parse(int unit, const QString &value, mpq *val_out)
     return true;
 }
 
-int FreicoinUnits::rowCount(const QModelIndex &parent) const
+int InvisiblesUnits::rowCount(const QModelIndex &parent) const
 {
     Q_UNUSED(parent);
     return unitlist.size();
 }
 
-QVariant FreicoinUnits::data(const QModelIndex &index, int role) const
+QVariant InvisiblesUnits::data(const QModelIndex &index, int role) const
 {
     int row = index.row();
     if(row >= 0 && row < unitlist.size())
