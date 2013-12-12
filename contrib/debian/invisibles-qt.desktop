@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Invisibles
+Comment=Invisibles P2P Cryptocurrency
+Comment[fr]=Invisibles, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Invisibles, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/invisibles-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/invisibles80.xpm
+MimeType=x-scheme-handler/invisibles;
+Categories=Office;
