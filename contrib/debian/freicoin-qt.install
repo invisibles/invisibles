@@ -1,5 +1,0 @@
-invisibles-qt usr/bin
-share/pixmaps/invisibles32.xpm usr/share/pixmaps
-share/pixmaps/invisibles80.xpm usr/share/pixmaps
-debian/invisibles-qt.desktop usr/share/applications
-debian/invisibles-qt.protocol usr/share/kde4/services/
